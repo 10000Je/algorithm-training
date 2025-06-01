@@ -1,0 +1,15 @@
+// no.2753: 윤년 (B5)
+
+#include <cstdio>
+using namespace std;
+
+int main() {
+    int year;
+    scanf("%d", &year);
+    if((year%4==0 && year%100!=0) or year%400==0) {
+        printf("1\n");
+    } else {
+        printf("0\n");
+    }
+    return 0;
+}
