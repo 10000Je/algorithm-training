@@ -1,0 +1,11 @@
+*
+!*/
+.vscode
+!*.c
+!*.cpp
+!*.h
+!*.py
+!*.java
+!*.kt
+!.gitignore
+!README.md
