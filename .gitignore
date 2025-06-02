@@ -1,6 +1,7 @@
 *
 !*/
 .vscode
+*.dSYM
 !*.c
 !*.cpp
 !*.h
