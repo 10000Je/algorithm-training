@@ -1,4 +1,4 @@
-// no.20303: 할로윈의 양아치
+// no.20303: 할로윈의 양아치 (G2)
 
 #include <iostream>
 #include <vector>
